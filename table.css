@@ -1,0 +1,24 @@
+table {
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+  height: 90%;
+  table-layout: auto;
+}
+.day_of_the_week {
+  text-align: center;
+  font-weight:400
+}
+td {
+  border: solid 1px #006400;
+}
+.tdlink {
+  cursor: pointer;
+}
+.tdlink:hover {
+  background-color: #98fb98;
+}
+
+caption {
+  text-align: left;
+}
